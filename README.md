@@ -91,7 +91,13 @@ Created new business columns:
 
 ---
 
-## 📊 Dashboard (Power BI)
+## 📊 Dashboard Preview
+
+### 🔹 Page 1
+![Dashboard](https://github.com/Anshpatel1825/hr-analytics-etl-pipeline/blob/main/Dashboard%20(1).png?raw=true)
+
+### 🔹 Page 2
+![Dashboard](https://github.com/Anshpatel1825/hr-analytics-etl-pipeline/blob/main/Second%20Page.png?raw=true)
 
 Created an interactive HR Analytics Dashboard with:
 
